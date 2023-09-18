@@ -25,7 +25,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-
+https://imgur.com/qWMxhHP
 
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
